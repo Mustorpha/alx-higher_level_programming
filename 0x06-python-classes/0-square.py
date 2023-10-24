@@ -2,6 +2,7 @@
 
 """An Empty Class definition"""
 
+
 class Square:
     """A square class"""
     pass
