@@ -3,6 +3,6 @@
 
 """An Empty Class definition"""
 
-class Square():
+class Square:
     """A square class"""
     pass
